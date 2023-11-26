@@ -1,0 +1,35 @@
+// this is the list of source from internet for our project and the echancement we do to the code
+Source 
+1. https://www.edureka.co/blog/library-management-system-project-in-java
+
+
+2.https://www.w3schools.com/css/css3_buttons.asp
+
+
+3.https://www.geeksforgeeks.org/library-management-system-using-switch-statement-in-java/
+
+4.https://youtu.be/U3X4x1TYHIk?si=nuoTvbWtQ4KVSxy7
+
+
+
+
+Enchanment /addition.
+1.We added our own classes.
+
+2.We implemented and used GUI pictures of our wish for the designs.
+
+3.We designed the log in page inputs and designed the log in page.
+
+4.We added the classes needed for creating the registration process for accessing the library.
+
+5.We created book classes how we wanted them to be....we added books.
+
+6.We created classes will allowed them the option to not only buy but also order and rent.
+
+
+7.We created the class to make accessible to return both rented and ordered books.
+
+8.We implemented java Fx
+ 
+
+9. for the JButton  color we use css code from we3school as reference
