@@ -1,5 +1,7 @@
 # Library Management System
 This application is a complete solution to help libraries improve daily operations. 
-It offers a centralised platform for the management of various library materials, such as multimedia, books, journals, and user data.
-In our project, we are focusing on a several feature such as renting and ordering book also check in and check out the book.
-It is also an application that can help on arrange the user information and book information in effecient way.
+It offers a centralized platform for the management of various library materials, such as multimedia, books, journals, and user data.
+In our project, we are focusing on several features such as renting and ordering books checking in and checking out the book.
+It is also an application that can help arrange user information and book information in an efficient way.
+It also helps a user to lend a book and keep track of a book that has been borrowed.
+It also stores book information for a user to check the author or  type of genre for a user to select a book based on their preference.
